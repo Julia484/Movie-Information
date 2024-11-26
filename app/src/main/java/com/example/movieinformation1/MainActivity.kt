@@ -61,10 +61,9 @@ class MainActivity : AppCompatActivity() {
                     })
                     queue.add(jsonObjectRequest)
 
-                    showMore.setOnClickListener {
 
-                    }
                 }
             }
         }
-    }}
+    }
+}
